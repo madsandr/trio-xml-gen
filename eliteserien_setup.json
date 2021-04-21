@@ -1,0 +1,78 @@
+
+{
+    "leagueId": "90",
+    "seasonId": "2021",
+    "kamper":
+        [
+            {
+            "kamp": 1,
+            "matchId": "00000",
+            "hjemmelag": "Stabæk", 
+            "hjemmelagId": "99999", 
+            "bortelag": "Brann",
+            "bortelagId": "88888"
+            },
+            {
+                "kamp": 2,
+                "matchId": "00000",
+                "hjemmelag": "Stabæk", 
+                "hjemmelagId": "99999", 
+                "bortelag": "Brann",
+                "bortelagId": "88888"
+            },
+
+            {
+                "kamp": 3,
+                "matchId": "00000",
+                "hjemmelag": "Stabæk", 
+                "hjemmelagId": "99999", 
+                "bortelag": "Brann",
+                "bortelagId": "88888"
+            },
+
+            {
+                "kamp": 4,
+                "matchId": "00000",
+                "hjemmelag": "Stabæk", 
+                "hjemmelagId": "99999", 
+                "bortelag": "Brann",
+                "bortelagId": "88888"
+            },
+
+            {
+                "kamp": 5,
+                "matchId": "00000",
+                "hjemmelag": "Stabæk", 
+                "hjemmelagId": "99999", 
+                "bortelag": "Brann",
+                "bortelagId": "88888"
+            },
+
+            {
+                "kamp": 6,
+                "matchId": "00000",
+                "hjemmelag": "Stabæk", 
+                "hjemmelagId": "99999", 
+                "bortelag": "Brann",
+                "bortelagId": "88888"
+            },
+
+            {
+                "kamp": 7,
+                "matchId": "00000",
+                "hjemmelag": "Stabæk", 
+                "hjemmelagId": "99999", 
+                "bortelag": "Brann",
+                "bortelagId": "88888"
+            },
+
+            {
+                "kamp": 8,
+                "matchId": "00000",
+                "hjemmelag": "Stabæk", 
+                "hjemmelagId": "99999", 
+                "bortelag": "Brann",
+                "bortelagId": "88888"
+            }
+        ]
+}

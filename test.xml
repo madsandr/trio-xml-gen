@@ -1,0 +1,2150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<archive version="1.0" creator="trio" creator_version="3.2.4 (Build 24895)">
+  <vdom>
+    <entry name="storage">
+      <entry name="shows">
+        <entry name="{0669D19F-8511-4D67-95F8-8C002DF6041A}">
+          <entry name="elements">
+            <group name="{a9c7d571-e6bb-445a-97db-47ee856946b0}" continue_count="0" has_loaded_error="yes" presentation="group" description="OBOS DIREKTE" available="1.00" loop="no" take_count="0" loaded="0.58">
+              <element available="1.00" channel="LDCWAPGFXENG024:6800" complete="false" continue_count="0" description="OTS - TRO LINEUP" layer="NFF\concept=Eliteserien\O2_Roster1,NFF\concept=Eliteserien\O1_Title3" loaded="0.00" programchannel="L-bar" showautodescription="false" take_count="0" templatedescription="OTS: Roster 1 Team" viz_program="LDCWAPGFXENG024:6800" name="2324">
+                <ref name="master_template">/storage/shows/{0669D19F-8511-4D67-95F8-8C002DF6041A}/mastertemplates/88105</ref>
+                <entry name="default_alternatives">
+                  <entry name="concept">Eliteserien</entry>
+                </entry>
+                <entry name="data">
+                  <entry name="1010">TROMSDALEN</entry>
+                  <entry name="1011">IMAGE*_Logos/Eliteserien/TRO</entry>
+                  <entry name="1012">0</entry>
+                  <entry name="1012.x">10</entry>
+                  <entry name="1012.y">-10</entry>
+                  <entry name="1013">0</entry>
+                  <entry name="1030"/>
+                  <entry name="1100">
+                    <xml name="xml">
+                      <entry name="entry">
+                        <element name="element">
+                          <entry name="data">
+                            <entry name="1">12</entry>
+                            <entry name="10.active">1</entry>
+                            <entry name="2">1</entry>
+                            <entry name="3">0</entry>
+                            <entry name="4">THEODOR NILSEN</entry>
+                            <entry name="49">1</entry>
+                            <entry name="5">0</entry>
+                            <entry name="6">0</entry>
+                            <entry name="7"/>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#2">
+                          <entry name="data">
+                            <entry name="1">3</entry>
+                            <entry name="10.active">0</entry>
+                            <entry name="2">0</entry>
+                            <entry name="3">0</entry>
+                            <entry name="4">ANDREAS ARNTZEN</entry>
+                            <entry name="49">0</entry>
+                            <entry name="5">0</entry>
+                            <entry name="6">0</entry>
+                            <entry name="7"/>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#3">
+                          <entry name="data">
+                            <entry name="1">4</entry>
+                            <entry name="10.active">0</entry>
+                            <entry name="2">0</entry>
+                            <entry name="3">0</entry>
+                            <entry name="4">THOMAS BRAATEN</entry>
+                            <entry name="49">0</entry>
+                            <entry name="5">0</entry>
+                            <entry name="6">0</entry>
+                            <entry name="7"/>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#4">
+                          <entry name="data">
+                            <entry name="1">11</entry>
+                            <entry name="10.active">0</entry>
+                            <entry name="2">0</entry>
+                            <entry name="3">0</entry>
+                            <entry name="4">HÅVARD LYSVOLL</entry>
+                            <entry name="49">0</entry>
+                            <entry name="5">0</entry>
+                            <entry name="6">0</entry>
+                            <entry name="7"/>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#5">
+                          <entry name="data">
+                            <entry name="1">18</entry>
+                            <entry name="10.active">1</entry>
+                            <entry name="2">0</entry>
+                            <entry name="3">0</entry>
+                            <entry name="4">HENRIK MALDE BREIMYR</entry>
+                            <entry name="49">0</entry>
+                            <entry name="5">0</entry>
+                            <entry name="6">0</entry>
+                            <entry name="7"/>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#6">
+                          <entry name="data">
+                            <entry name="1">7</entry>
+                            <entry name="10.active">0</entry>
+                            <entry name="2">0</entry>
+                            <entry name="3">0</entry>
+                            <entry name="4">HÅKON KJÆRVE</entry>
+                            <entry name="49">0</entry>
+                            <entry name="5">0</entry>
+                            <entry name="6">0</entry>
+                            <entry name="7"/>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#7">
+                          <entry name="data">
+                            <entry name="1">8</entry>
+                            <entry name="10.active">0</entry>
+                            <entry name="2">0</entry>
+                            <entry name="3">0</entry>
+                            <entry name="4">THOMAS KIND BENDIKSEN</entry>
+                            <entry name="49">0</entry>
+                            <entry name="5">0</entry>
+                            <entry name="6">0</entry>
+                            <entry name="7"/>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#8">
+                          <entry name="data">
+                            <entry name="1">22</entry>
+                            <entry name="10.active">0</entry>
+                            <entry name="2">0</entry>
+                            <entry name="3">0</entry>
+                            <entry name="4">LASSE BERG JOHANSEN</entry>
+                            <entry name="49">0</entry>
+                            <entry name="5">0</entry>
+                            <entry name="6">0</entry>
+                            <entry name="7"/>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#9">
+                          <entry name="data">
+                            <entry name="1">66</entry>
+                            <entry name="10.active">1</entry>
+                            <entry name="2">0</entry>
+                            <entry name="3">0</entry>
+                            <entry name="4">ANDREAS LØVLAND</entry>
+                            <entry name="49">0</entry>
+                            <entry name="5">0</entry>
+                            <entry name="6">0</entry>
+                            <entry name="7"/>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#10">
+                          <entry name="data">
+                            <entry name="1">15</entry>
+                            <entry name="10.active">0</entry>
+                            <entry name="2">0</entry>
+                            <entry name="3">0</entry>
+                            <entry name="4">SANDER RINGBERG</entry>
+                            <entry name="49">0</entry>
+                            <entry name="5">0</entry>
+                            <entry name="6">0</entry>
+                            <entry name="7"/>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#11">
+                          <entry name="data">
+                            <entry name="1">20</entry>
+                            <entry name="10.active">0</entry>
+                            <entry name="2">0</entry>
+                            <entry name="3">0</entry>
+                            <entry name="4">ØRJAN SKALLEBØ</entry>
+                            <entry name="49">0</entry>
+                            <entry name="5">0</entry>
+                            <entry name="6">0</entry>
+                            <entry name="7"/>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                      </entry>
+                    </xml>
+                  </entry>
+                  <entry name="999901">147</entry>
+                  <entry name="999902">2019</entry>
+                  <entry name="999903">1040942</entry>
+                  <entry name="999904">3361</entry>
+                  <entry name="999905"/>
+                  <entry name="999906"/>
+                  <entry name="999907"/>
+                  <entry name="999908"/>
+                  <entry name="999909"/>
+                  <entry name="999910"/>
+                  <entry name="999911"/>
+                  <entry name="999912"/>
+                  <entry name="999913"/>
+                  <entry name="999914"/>
+                  <entry name="999915"/>
+                  <entry name="999916"/>
+                  <entry name="999917"/>
+                  <entry name="999918"/>
+                  <entry name="999919"/>
+                  <entry name="999920"/>
+                </entry>
+                <entry name="dblink">
+                  <entry name="1010"/>
+                  <entry name="1030"/>
+                  <entry name="1100"/>
+                  <entry name="999920"/>
+                </entry>
+                <entry name="settings">
+                  <entry name="tabfields">
+                    <entry name="1010">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="1011">
+                      <entry name="customattribute">OFF</entry>
+                      <entry name="searchtext"/>
+                    </entry>
+                    <entry name="1012">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1013">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1030">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1100">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="999901">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999902">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999903">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999904">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999905">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999906">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999907">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999908">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999909">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999910">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999911">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999912">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999913">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999914">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999915">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999916">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999917">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999918">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999919">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999920">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1012.x">
+                      <entry name="searchtext"/>
+                    </entry>
+                    <entry name="1012.y">
+                      <entry name="searchtext"/>
+                    </entry>
+                  </entry>
+                  <entry name="isfilescript">false</entry>
+                  <entry name="modified">2019-09-18T15:01:31</entry>
+                </entry>
+                <entry usage="updating" name="payload_xml">&lt;payload xmlns="http://www.vizrt.com/types"&gt;&lt;field name="1010"&gt;&lt;value&gt;TROMSDALEN&lt;/value&gt;&lt;/field&gt;&lt;field name="1011"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;IMAGE*_Logos/Eliteserien/TRO&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="1012"&gt;&lt;value&gt;0&lt;/value&gt;&lt;field name="x"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;10&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="y"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;-10&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;field name="1013"&gt;&lt;value&gt;0&lt;/value&gt;&lt;/field&gt;&lt;field name="999901"&gt;&lt;value&gt;147&lt;/value&gt;&lt;/field&gt;&lt;field name="999902"&gt;&lt;value&gt;2019&lt;/value&gt;&lt;/field&gt;&lt;field name="999903"&gt;&lt;value&gt;1040942&lt;/value&gt;&lt;/field&gt;&lt;field name="999904"&gt;&lt;value&gt;3361&lt;/value&gt;&lt;/field&gt;&lt;field name="999905"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999906"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999907"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999908"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999909"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999910"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999911"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999912"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999913"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999914"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999915"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999916"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999917"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999918"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999919"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999920"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="1030" /&gt;&lt;field name="1100"&gt;&lt;list /&gt;&lt;/field&gt;&lt;/payload&gt;</entry>
+              </element>
+              <element available="1.00" channel="L-bar" complete="false" continue_count="0" description="OTS - TRO RESULTATER" layer="NFF\concept=Eliteserien\O2_Last6,NFF\concept=Eliteserien\O1_Title3" loaded="1.00" programchannel="L-bar" showautodescription="false" take_count="0" templatedescription="OTS: Last 6 Games" viz_program="L-bar" name="2274">
+                <ref name="master_template">/storage/shows/{0669D19F-8511-4D67-95F8-8C002DF6041A}/mastertemplates/86400</ref>
+                <entry name="default_alternatives">
+                  <entry name="concept">Eliteserien</entry>
+                </entry>
+                <entry name="data">
+                  <entry name="1010">TROMSDALEN</entry>
+                  <entry name="1011">IMAGE*_Logos/Eliteserien/TRO</entry>
+                  <entry name="1012">0</entry>
+                  <entry name="1012.x">10</entry>
+                  <entry name="1012.y">-10</entry>
+                  <entry name="1013">0</entry>
+                  <entry name="1030">SISTE 6 RESULTATER</entry>
+                  <entry name="1090">6</entry>
+                  <entry name="1100">
+                    <xml name="xml">
+                      <entry name="entry">
+                        <element name="element">
+                          <entry name="data">
+                            <entry name="1">NEST-SOTRA</entry>
+                            <entry name="2">(B)</entry>
+                            <entry name="3">2</entry>
+                            <entry name="4">0</entry>
+                            <entry name="5">1</entry>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#2">
+                          <entry name="data">
+                            <entry name="1">HAMKAM</entry>
+                            <entry name="2">(H)</entry>
+                            <entry name="3">2</entry>
+                            <entry name="4">5</entry>
+                            <entry name="5">1</entry>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#3">
+                          <entry name="data">
+                            <entry name="1">STRØMMEN</entry>
+                            <entry name="2">(B)</entry>
+                            <entry name="3">0</entry>
+                            <entry name="4">4</entry>
+                            <entry name="5">0</entry>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#4">
+                          <entry name="data">
+                            <entry name="1">SOGNDAL</entry>
+                            <entry name="2">(H)</entry>
+                            <entry name="3">0</entry>
+                            <entry name="4">1</entry>
+                            <entry name="5">1</entry>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#5">
+                          <entry name="data">
+                            <entry name="1">START</entry>
+                            <entry name="2">(B)</entry>
+                            <entry name="3">2</entry>
+                            <entry name="4">0</entry>
+                            <entry name="5">1</entry>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#6">
+                          <entry name="data">
+                            <entry name="1">SKEID</entry>
+                            <entry name="2">(H)</entry>
+                            <entry name="3">1</entry>
+                            <entry name="4">0</entry>
+                            <entry name="5">0</entry>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                      </entry>
+                    </xml>
+                  </entry>
+                  <entry name="999901">147</entry>
+                  <entry name="999902">2019</entry>
+                  <entry name="999903">3373</entry>
+                  <entry name="999904"/>
+                  <entry name="999905"/>
+                  <entry name="999906"/>
+                  <entry name="999907"/>
+                  <entry name="999908"/>
+                  <entry name="999909"/>
+                  <entry name="999910"/>
+                  <entry name="999911"/>
+                  <entry name="999912"/>
+                  <entry name="999913"/>
+                  <entry name="999914"/>
+                  <entry name="999915"/>
+                  <entry name="999916"/>
+                  <entry name="999917"/>
+                  <entry name="999918"/>
+                  <entry name="999919"/>
+                  <entry name="999920"/>
+                </entry>
+                <entry name="dblink">
+                  <entry name="1010"/>
+                  <entry name="1030"/>
+                  <entry name="1100"/>
+                  <entry name="999901"/>
+                  <entry name="999902"/>
+                  <entry name="999903"/>
+                  <entry name="999904"/>
+                </entry>
+                <entry name="settings">
+                  <entry name="tabfields">
+                    <entry name="1010">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1011">
+                      <entry name="customattribute">OFF</entry>
+                      <entry name="searchtext"/>
+                    </entry>
+                    <entry name="1012">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="1013">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1030">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1090">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1100">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999901">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999902">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999903">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999904">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999905">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999906">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999907">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999908">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999909">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999910">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999911">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999912">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999913">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999914">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999915">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999916">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999917">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999918">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999919">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999920">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1012.x">
+                      <entry name="searchtext"/>
+                    </entry>
+                    <entry name="1012.y">
+                      <entry name="searchtext"/>
+                    </entry>
+                  </entry>
+                  <entry name="isfilescript">false</entry>
+                  <entry name="modified">2019-09-18T20:11:19</entry>
+                </entry>
+                <entry usage="updating" name="payload_xml">&lt;payload xmlns="http://www.vizrt.com/types"&gt;&lt;field name="1010"&gt;&lt;value&gt;TROMSDALEN&lt;/value&gt;&lt;/field&gt;&lt;field name="1011"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;IMAGE*_Logos/Eliteserien/TRO&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="1012"&gt;&lt;value&gt;0&lt;/value&gt;&lt;field name="x"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;10&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="y"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;-10&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;field name="1013"&gt;&lt;value&gt;0&lt;/value&gt;&lt;/field&gt;&lt;field name="999901"&gt;&lt;value&gt;147&lt;/value&gt;&lt;/field&gt;&lt;field name="999902"&gt;&lt;value&gt;2019&lt;/value&gt;&lt;/field&gt;&lt;field name="999903"&gt;&lt;value&gt;3373&lt;/value&gt;&lt;/field&gt;&lt;field name="999904"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999905"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999906"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999907"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999908"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999909"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999910"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999911"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999912"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999913"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999914"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999915"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999916"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999917"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999918"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999919"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999920"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="1030"&gt;&lt;value&gt;SISTE 6 RESULTATER&lt;/value&gt;&lt;/field&gt;&lt;field name="1090"&gt;&lt;value&gt;6&lt;/value&gt;&lt;/field&gt;&lt;field name="1100"&gt;&lt;list /&gt;&lt;/field&gt;&lt;/payload&gt;</entry>
+              </element>
+              <element available="1.00" channel="L-bar" complete="false" continue_count="0" description="OTS - TRO KAMPER" layer="NFF\concept=Eliteserien\O2_Next6,NFF\concept=Eliteserien\O1_Title3" loaded="1.00" programchannel="L-bar" showautodescription="false" take_count="0" templatedescription="OTS: Next 6 Games" viz_program="L-bar" name="2273">
+                <ref name="master_template">/storage/shows/{0669D19F-8511-4D67-95F8-8C002DF6041A}/mastertemplates/86410</ref>
+                <entry name="default_alternatives">
+                  <entry name="concept">Eliteserien</entry>
+                </entry>
+                <entry name="data">
+                  <entry name="1010">TROMSDALEN</entry>
+                  <entry name="1011">IMAGE*_Logos/Eliteserien/TRO</entry>
+                  <entry name="1012">0</entry>
+                  <entry name="1012.x">10</entry>
+                  <entry name="1012.y">-10</entry>
+                  <entry name="1013">0</entry>
+                  <entry name="1030">NESTE KAMPER</entry>
+                  <entry name="1090">6</entry>
+                  <entry name="1100">
+                    <xml name="xml">
+                      <entry name="entry">
+                        <element name="element">
+                          <entry name="data">
+                            <entry name="1">SOGNDAL</entry>
+                            <entry name="2">(H)</entry>
+                            <entry name="3">ONSDAG 21. AUGUST 18.00</entry>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#2">
+                          <entry name="data">
+                            <entry name="1">STRØMMEN</entry>
+                            <entry name="2">(B)</entry>
+                            <entry name="3">SØNDAG 25. AUGUST 18.00</entry>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#3">
+                          <entry name="data">
+                            <entry name="1">HAMKAM</entry>
+                            <entry name="2">(H)</entry>
+                            <entry name="3">SØNDAG 01. SEPTEMBER 17.00</entry>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#4">
+                          <entry name="data">
+                            <entry name="1">NEST-SOTRA</entry>
+                            <entry name="2">(B)</entry>
+                            <entry name="3">SØNDAG 15. SEPTEMBER 16.00</entry>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#5">
+                          <entry name="data">
+                            <entry name="1">SANDNES ULF</entry>
+                            <entry name="2">(H)</entry>
+                            <entry name="3">ONSDAG 18. SEPTEMBER 19.00</entry>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#6">
+                          <entry name="data">
+                            <entry name="1">JERV</entry>
+                            <entry name="2">(B)</entry>
+                            <entry name="3">SØNDAG 22. SEPTEMBER 19.00</entry>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                      </entry>
+                    </xml>
+                  </entry>
+                  <entry name="999901">147</entry>
+                  <entry name="999902">2019</entry>
+                  <entry name="999903">3373</entry>
+                  <entry name="999904"/>
+                  <entry name="999905"/>
+                  <entry name="999906"/>
+                  <entry name="999907"/>
+                  <entry name="999908"/>
+                  <entry name="999909"/>
+                  <entry name="999910"/>
+                  <entry name="999911"/>
+                  <entry name="999912"/>
+                  <entry name="999913"/>
+                  <entry name="999914"/>
+                  <entry name="999915"/>
+                  <entry name="999916"/>
+                  <entry name="999917"/>
+                  <entry name="999918"/>
+                  <entry name="999919"/>
+                  <entry name="999920"/>
+                </entry>
+                <entry name="dblink">
+                  <entry name="1010"/>
+                  <entry name="1030"/>
+                  <entry name="1100"/>
+                  <entry name="999901"/>
+                  <entry name="999902"/>
+                  <entry name="999903"/>
+                  <entry name="999918"/>
+                  <entry name="999919"/>
+                  <entry name="999920"/>
+                </entry>
+                <entry name="settings">
+                  <entry name="tabfields">
+                    <entry name="1010">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1011">
+                      <entry name="customattribute">OFF</entry>
+                      <entry name="searchtext"/>
+                    </entry>
+                    <entry name="1012">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1013">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1030">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1090">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1100">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="999901">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999902">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999903">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999904">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999905">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999906">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999907">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999908">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999909">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999910">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999911">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999912">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999913">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999914">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999915">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999916">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999917">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999918">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999919">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999920">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1012.x">
+                      <entry name="searchtext"/>
+                    </entry>
+                    <entry name="1012.y">
+                      <entry name="searchtext"/>
+                    </entry>
+                  </entry>
+                  <entry name="isfilescript">false</entry>
+                  <entry name="modified">2019-08-21T14:11:17</entry>
+                </entry>
+                <entry usage="updating" name="payload_xml">&lt;payload xmlns="http://www.vizrt.com/types"&gt;&lt;field name="1010"&gt;&lt;value&gt;TROMSDALEN&lt;/value&gt;&lt;/field&gt;&lt;field name="1011"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;IMAGE*_Logos/Eliteserien/TRO&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="1012"&gt;&lt;value&gt;0&lt;/value&gt;&lt;field name="x"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;10&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="y"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;-10&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;field name="1013"&gt;&lt;value&gt;0&lt;/value&gt;&lt;/field&gt;&lt;field name="999901"&gt;&lt;value&gt;147&lt;/value&gt;&lt;/field&gt;&lt;field name="999902"&gt;&lt;value&gt;2019&lt;/value&gt;&lt;/field&gt;&lt;field name="999903"&gt;&lt;value&gt;3373&lt;/value&gt;&lt;/field&gt;&lt;field name="999904"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999905"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999906"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999907"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999908"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999909"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999910"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999911"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999912"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999913"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999914"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999915"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999916"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999917"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999918"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999919"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999920"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="1030"&gt;&lt;value&gt;NESTE KAMPER&lt;/value&gt;&lt;/field&gt;&lt;field name="1090"&gt;&lt;value&gt;6&lt;/value&gt;&lt;/field&gt;&lt;field name="1100"&gt;&lt;list /&gt;&lt;/field&gt;&lt;/payload&gt;</entry>
+              </element>
+              <element available="1.00" complete="false" continue_count="0" description="L3 - TRO HILL" layer="L1" loaded="0.00" loaded_errors="ERROR &lt;SCENE*mse_initialize*TREE*1*IMAGE SET IMAGE*_Logos/Eliteserien/_Placeholder > : parameter is invalid location [location not specified]" showautodescription="false" take_count="0" templatedescription="L3: Player" name="11029">
+                <ref name="master_template">/storage/shows/{0669D19F-8511-4D67-95F8-8C002DF6041A}/mastertemplates/71000</ref>
+                <entry name="default_alternatives">
+                  <entry name="concept">Eliteserien</entry>
+                </entry>
+                <entry name="data">
+                  <entry name="0005">1</entry>
+                  <entry name="0008">0</entry>
+                  <entry name="0009">IMAGE*_Logos/Eliteserien/_Placeholder</entry>
+                  <entry name="0009.image_position">0 0</entry>
+                  <entry name="0009.image_scaling">0.480000 0.480000</entry>
+                  <entry name="0011">1</entry>
+                  <entry name="0012">0</entry>
+                  <entry name="0049">1</entry>
+                  <entry name="0050"/>
+                  <entry name="0050.sw">1</entry>
+                  <entry name="0090">IMAGE*_Logos/Eliteserien/TRO</entry>
+                  <entry name="0091">0</entry>
+                  <entry name="0091.x">10</entry>
+                  <entry name="0091.y">-10</entry>
+                  <entry name="0095"/>
+                  <entry name="0095.sw">1</entry>
+                  <entry name="0096">0</entry>
+                  <entry name="0100">JONATHAN HILL</entry>
+                  <entry name="0102">TRENER, TROMSDALEN</entry>
+                  <entry name="0150">0</entry>
+                  <entry name="0150.sw">0</entry>
+                  <entry name="0900"/>
+                  <entry name="0900.pos">1</entry>
+                  <entry name="0900.sw">1</entry>
+                </entry>
+                <entry name="dblink">
+                  <entry name="0050"/>
+                  <entry name="0095"/>
+                  <entry name="0100"/>
+                  <entry name="0102"/>
+                  <entry name="0900"/>
+                </entry>
+                <entry name="settings">
+                  <entry name="tabfields">
+                    <entry name="0005">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0008">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0009">
+                      <entry name="customattribute">ON</entry>
+                      <entry name="searchtext"/>
+                    </entry>
+                    <entry name="0011">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0012">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0049">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0050">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0090">
+                      <entry name="customattribute">ON</entry>
+                      <entry name="searchtext"/>
+                    </entry>
+                    <entry name="0091">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0095">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0096">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0100">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0102">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0150">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0900">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0091.x">
+                      <entry name="searchtext"/>
+                    </entry>
+                    <entry name="0091.y">
+                      <entry name="searchtext"/>
+                    </entry>
+                  </entry>
+                  <entry name="isfilescript">false</entry>
+                  <entry name="modified">2019-09-18T15:31:50</entry>
+                </entry>
+                <entry usage="updating" name="payload_xml">&lt;payload xmlns="http://www.vizrt.com/types"&gt;&lt;field name="0005"&gt;&lt;value&gt;1&lt;/value&gt;&lt;field name="active"&gt;&lt;value&gt;0&lt;/value&gt;&lt;/field&gt;&lt;field name="image_position"&gt;&lt;value&gt;0 -1.800000&lt;/value&gt;&lt;/field&gt;&lt;field name="image_scaling"&gt;&lt;value&gt;1.700000 1.700000&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;field name="0008"&gt;&lt;value&gt;0&lt;/value&gt;&lt;/field&gt;&lt;field name="0009"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;IMAGE*_Logos/Eliteserien/_Placeholder&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;field name="image_position"&gt;&lt;value&gt;0 0&lt;/value&gt;&lt;/field&gt;&lt;field name="image_scaling"&gt;&lt;value&gt;0.480000 0.480000&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;field name="0011"&gt;&lt;value&gt;1&lt;/value&gt;&lt;/field&gt;&lt;field name="0012"&gt;&lt;value&gt;0&lt;/value&gt;&lt;/field&gt;&lt;field name="0049"&gt;&lt;value&gt;1&lt;/value&gt;&lt;/field&gt;&lt;field name="0050"&gt;&lt;field name="sw"&gt;&lt;value&gt;1&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;field name="0090"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;IMAGE*_Logos/Eliteserien/TRO&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="0091"&gt;&lt;value&gt;0&lt;/value&gt;&lt;field name="x"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;10&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="y"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;-10&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;field name="0095"&gt;&lt;field name="sw"&gt;&lt;value&gt;1&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;field name="0096"&gt;&lt;value&gt;0&lt;/value&gt;&lt;/field&gt;&lt;field name="0100"&gt;&lt;value&gt;JONATHAN HILL&lt;/value&gt;&lt;/field&gt;&lt;field name="0102"&gt;&lt;value&gt;TRENER, TROMSDALEN&lt;/value&gt;&lt;/field&gt;&lt;field name="0150"&gt;&lt;value&gt;0&lt;/value&gt;&lt;field name="sw"&gt;&lt;value&gt;0&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;field name="0900"&gt;&lt;field name="pos"&gt;&lt;value&gt;1&lt;/value&gt;&lt;/field&gt;&lt;field name="sw"&gt;&lt;value&gt;1&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;/payload&gt;</entry>
+              </element>
+              <element available="1.00" complete="false" continue_count="0" description="L3 - TRO SPILLER" layer="L1" loaded="0.00" loaded_errors="ERROR &lt;SCENE*mse_initialize*TREE*1*IMAGE SET IMAGE*_Logos/Eliteserien/_Placeholder > : parameter is invalid location [location not specified]" showautodescription="false" take_count="0" templatedescription="L3: Player" name="11035">
+                <ref name="master_template">/storage/shows/{0669D19F-8511-4D67-95F8-8C002DF6041A}/mastertemplates/71000</ref>
+                <entry name="default_alternatives">
+                  <entry name="concept">Eliteserien</entry>
+                </entry>
+                <entry name="data">
+                  <entry name="0005">1</entry>
+                  <entry name="0008">0</entry>
+                  <entry name="0009">IMAGE*_Logos/Eliteserien/_Placeholder</entry>
+                  <entry name="0009.image_position">0 0</entry>
+                  <entry name="0009.image_scaling">0.480000 0.480000</entry>
+                  <entry name="0011">1</entry>
+                  <entry name="0012">0</entry>
+                  <entry name="0049">1</entry>
+                  <entry name="0050"/>
+                  <entry name="0050.sw">1</entry>
+                  <entry name="0090">IMAGE*_Logos/Eliteserien/TRO</entry>
+                  <entry name="0091">0</entry>
+                  <entry name="0091.x">10</entry>
+                  <entry name="0091.y">-10</entry>
+                  <entry name="0095"/>
+                  <entry name="0095.sw">1</entry>
+                  <entry name="0096">0</entry>
+                  <entry name="0100">TEODOR NILSEN</entry>
+                  <entry name="0102">TROMSDALEN</entry>
+                  <entry name="0150">0</entry>
+                  <entry name="0150.sw">0</entry>
+                  <entry name="0900"/>
+                  <entry name="0900.pos">1</entry>
+                  <entry name="0900.sw">1</entry>
+                </entry>
+                <entry name="dblink">
+                  <entry name="0050"/>
+                  <entry name="0095"/>
+                  <entry name="0100"/>
+                  <entry name="0102"/>
+                  <entry name="0900"/>
+                </entry>
+                <entry name="settings">
+                  <entry name="tabfields">
+                    <entry name="0005">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0008">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0009">
+                      <entry name="customattribute">ON</entry>
+                      <entry name="searchtext"/>
+                    </entry>
+                    <entry name="0011">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0012">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0049">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0050">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0090">
+                      <entry name="customattribute">ON</entry>
+                      <entry name="searchtext"/>
+                    </entry>
+                    <entry name="0091">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0095">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0096">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0100">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0102">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0150">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0900">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0091.x">
+                      <entry name="searchtext"/>
+                    </entry>
+                    <entry name="0091.y">
+                      <entry name="searchtext"/>
+                    </entry>
+                  </entry>
+                  <entry name="isfilescript">false</entry>
+                  <entry name="modified">2019-09-18T15:32:00</entry>
+                </entry>
+                <entry usage="updating" name="payload_xml">&lt;payload xmlns="http://www.vizrt.com/types"&gt;&lt;field name="0005"&gt;&lt;value&gt;1&lt;/value&gt;&lt;field name="active"&gt;&lt;value&gt;0&lt;/value&gt;&lt;/field&gt;&lt;field name="image_position"&gt;&lt;value&gt;0 -1.800000&lt;/value&gt;&lt;/field&gt;&lt;field name="image_scaling"&gt;&lt;value&gt;1.700000 1.700000&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;field name="0008"&gt;&lt;value&gt;0&lt;/value&gt;&lt;/field&gt;&lt;field name="0009"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;IMAGE*_Logos/Eliteserien/_Placeholder&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;field name="image_position"&gt;&lt;value&gt;0 0&lt;/value&gt;&lt;/field&gt;&lt;field name="image_scaling"&gt;&lt;value&gt;0.480000 0.480000&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;field name="0011"&gt;&lt;value&gt;1&lt;/value&gt;&lt;/field&gt;&lt;field name="0012"&gt;&lt;value&gt;0&lt;/value&gt;&lt;/field&gt;&lt;field name="0049"&gt;&lt;value&gt;1&lt;/value&gt;&lt;/field&gt;&lt;field name="0050"&gt;&lt;field name="sw"&gt;&lt;value&gt;1&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;field name="0090"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;IMAGE*_Logos/Eliteserien/TRO&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="0091"&gt;&lt;value&gt;0&lt;/value&gt;&lt;field name="x"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;10&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="y"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;-10&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;field name="0095"&gt;&lt;field name="sw"&gt;&lt;value&gt;1&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;field name="0096"&gt;&lt;value&gt;0&lt;/value&gt;&lt;/field&gt;&lt;field name="0100"&gt;&lt;value&gt;TEODOR NILSEN&lt;/value&gt;&lt;/field&gt;&lt;field name="0102"&gt;&lt;value&gt;TROMSDALEN&lt;/value&gt;&lt;/field&gt;&lt;field name="0150"&gt;&lt;value&gt;0&lt;/value&gt;&lt;field name="sw"&gt;&lt;value&gt;0&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;field name="0900"&gt;&lt;field name="pos"&gt;&lt;value&gt;1&lt;/value&gt;&lt;/field&gt;&lt;field name="sw"&gt;&lt;value&gt;1&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;/payload&gt;</entry>
+              </element>
+              <element available="1.00" channel="L-bar" complete="false" continue_count="0" description="OTS - ULF LINEUP" layer="NFF\concept=Eliteserien\O2_Roster1,NFF\concept=Eliteserien\O1_Title3" loaded="1.00" programchannel="L-bar" showautodescription="false" take_count="0" templatedescription="OTS: Roster 1 Team" viz_program="L-bar" name="2317">
+                <ref name="master_template">/storage/shows/{0669D19F-8511-4D67-95F8-8C002DF6041A}/mastertemplates/88105</ref>
+                <entry name="default_alternatives">
+                  <entry name="concept">Eliteserien</entry>
+                </entry>
+                <entry name="data">
+                  <entry name="1010">SANDNES ULF</entry>
+                  <entry name="1011">IMAGE*_Logos/Eliteserien/ULF</entry>
+                  <entry name="1012">2</entry>
+                  <entry name="1012.x">10</entry>
+                  <entry name="1012.y">-10</entry>
+                  <entry name="1013">0</entry>
+                  <entry name="1030"/>
+                  <entry name="1100">
+                    <xml name="xml">
+                      <entry name="entry">
+                        <element name="element">
+                          <entry name="data">
+                            <entry name="1">36</entry>
+                            <entry name="10.active">1</entry>
+                            <entry name="2">1</entry>
+                            <entry name="3">0</entry>
+                            <entry name="4">MARKUS NILSEN</entry>
+                            <entry name="49">1</entry>
+                            <entry name="5">0</entry>
+                            <entry name="6">0</entry>
+                            <entry name="7"/>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#2">
+                          <entry name="data">
+                            <entry name="1">4</entry>
+                            <entry name="10.active">0</entry>
+                            <entry name="2">0</entry>
+                            <entry name="3">0</entry>
+                            <entry name="4">AXEL KRYGER</entry>
+                            <entry name="49">0</entry>
+                            <entry name="5">0</entry>
+                            <entry name="6">0</entry>
+                            <entry name="7"/>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#3">
+                          <entry name="data">
+                            <entry name="1">16</entry>
+                            <entry name="10.active">0</entry>
+                            <entry name="2">0</entry>
+                            <entry name="3">0</entry>
+                            <entry name="4">TAPIO HEIKKILA</entry>
+                            <entry name="49">0</entry>
+                            <entry name="5">0</entry>
+                            <entry name="6">0</entry>
+                            <entry name="7"/>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#4">
+                          <entry name="data">
+                            <entry name="1">3</entry>
+                            <entry name="10.active">0</entry>
+                            <entry name="2">0</entry>
+                            <entry name="3">0</entry>
+                            <entry name="4">ARI MOHR JONSSON</entry>
+                            <entry name="49">0</entry>
+                            <entry name="5">0</entry>
+                            <entry name="6">0</entry>
+                            <entry name="7"/>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#5">
+                          <entry name="data">
+                            <entry name="1">22</entry>
+                            <entry name="10.active">1</entry>
+                            <entry name="2">0</entry>
+                            <entry name="3">0</entry>
+                            <entry name="4">JASMIN BOGDANOVIC</entry>
+                            <entry name="49">0</entry>
+                            <entry name="5">0</entry>
+                            <entry name="6">0</entry>
+                            <entry name="7"/>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#6">
+                          <entry name="data">
+                            <entry name="1">17</entry>
+                            <entry name="10.active">0</entry>
+                            <entry name="2">0</entry>
+                            <entry name="3">0</entry>
+                            <entry name="4">INGVALD HALGUNSET</entry>
+                            <entry name="49">0</entry>
+                            <entry name="5">0</entry>
+                            <entry name="6">0</entry>
+                            <entry name="7"/>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#7">
+                          <entry name="data">
+                            <entry name="1">7</entry>
+                            <entry name="10.active">0</entry>
+                            <entry name="2">0</entry>
+                            <entry name="3">0</entry>
+                            <entry name="4">SIMON D. COLINA</entry>
+                            <entry name="49">0</entry>
+                            <entry name="5">0</entry>
+                            <entry name="6">0</entry>
+                            <entry name="7"/>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#8">
+                          <entry name="data">
+                            <entry name="1">6</entry>
+                            <entry name="10.active">0</entry>
+                            <entry name="2">0</entry>
+                            <entry name="3">0</entry>
+                            <entry name="4">CHRISTIAN LANDU LANDU</entry>
+                            <entry name="49">0</entry>
+                            <entry name="5">0</entry>
+                            <entry name="6">0</entry>
+                            <entry name="7"/>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#9">
+                          <entry name="data">
+                            <entry name="1">20</entry>
+                            <entry name="10.active">1</entry>
+                            <entry name="2">0</entry>
+                            <entry name="3">0</entry>
+                            <entry name="4">ADRIAN BERNTSEN</entry>
+                            <entry name="49">0</entry>
+                            <entry name="5">0</entry>
+                            <entry name="6">0</entry>
+                            <entry name="7"/>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#10">
+                          <entry name="data">
+                            <entry name="1">9</entry>
+                            <entry name="10.active">0</entry>
+                            <entry name="2">0</entry>
+                            <entry name="3">0</entry>
+                            <entry name="4">ONYEKACHI UGWUDU</entry>
+                            <entry name="49">0</entry>
+                            <entry name="5">0</entry>
+                            <entry name="6">0</entry>
+                            <entry name="7"/>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#11">
+                          <entry name="data">
+                            <entry name="1">15</entry>
+                            <entry name="10.active">0</entry>
+                            <entry name="2">0</entry>
+                            <entry name="3">0</entry>
+                            <entry name="4">VEGARD ERLIEN</entry>
+                            <entry name="49">0</entry>
+                            <entry name="5">0</entry>
+                            <entry name="6">0</entry>
+                            <entry name="7"/>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                      </entry>
+                    </xml>
+                  </entry>
+                  <entry name="999901">147</entry>
+                  <entry name="999902">2019</entry>
+                  <entry name="999903">1040942</entry>
+                  <entry name="999904">3361</entry>
+                  <entry name="999905"/>
+                  <entry name="999906"/>
+                  <entry name="999907"/>
+                  <entry name="999908"/>
+                  <entry name="999909"/>
+                  <entry name="999910"/>
+                  <entry name="999911"/>
+                  <entry name="999912"/>
+                  <entry name="999913"/>
+                  <entry name="999914"/>
+                  <entry name="999915"/>
+                  <entry name="999916"/>
+                  <entry name="999917"/>
+                  <entry name="999918"/>
+                  <entry name="999919"/>
+                  <entry name="999920"/>
+                </entry>
+                <entry name="dblink">
+                  <entry name="1010"/>
+                  <entry name="1030"/>
+                  <entry name="1100"/>
+                  <entry name="999920"/>
+                </entry>
+                <entry name="settings">
+                  <entry name="tabfields">
+                    <entry name="1010">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="1011">
+                      <entry name="customattribute">OFF</entry>
+                      <entry name="searchtext"/>
+                    </entry>
+                    <entry name="1012">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1013">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1030">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1100">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="999901">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999902">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999903">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999904">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999905">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999906">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999907">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999908">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999909">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999910">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999911">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999912">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999913">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999914">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999915">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999916">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999917">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999918">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999919">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999920">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1012.x">
+                      <entry name="searchtext"/>
+                    </entry>
+                    <entry name="1012.y">
+                      <entry name="searchtext"/>
+                    </entry>
+                  </entry>
+                  <entry name="isfilescript">false</entry>
+                  <entry name="modified">2019-09-18T15:32:44</entry>
+                </entry>
+                <entry usage="updating" name="payload_xml">&lt;payload xmlns="http://www.vizrt.com/types"&gt;&lt;field name="1010"&gt;&lt;value&gt;SANDNES ULF&lt;/value&gt;&lt;/field&gt;&lt;field name="1011"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;IMAGE*_Logos/Eliteserien/ULF&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="1012"&gt;&lt;value&gt;2&lt;/value&gt;&lt;field name="x"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;10&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="y"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;-10&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;field name="1013"&gt;&lt;value&gt;0&lt;/value&gt;&lt;/field&gt;&lt;field name="999901"&gt;&lt;value&gt;147&lt;/value&gt;&lt;/field&gt;&lt;field name="999902"&gt;&lt;value&gt;2019&lt;/value&gt;&lt;/field&gt;&lt;field name="999903"&gt;&lt;value&gt;1040942&lt;/value&gt;&lt;/field&gt;&lt;field name="999904"&gt;&lt;value&gt;3361&lt;/value&gt;&lt;/field&gt;&lt;field name="999905"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999906"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999907"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999908"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999909"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999910"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999911"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999912"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999913"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999914"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999915"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999916"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999917"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999918"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999919"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999920"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="1030" /&gt;&lt;field name="1100"&gt;&lt;list /&gt;&lt;/field&gt;&lt;/payload&gt;</entry>
+              </element>
+              <element available="1.00" channel="L-bar" complete="false" continue_count="0" description="OTS - ULF RESULTATER" layer="NFF\concept=Eliteserien\O2_Last6,NFF\concept=Eliteserien\O1_Title3" loaded="1.00" programchannel="L-bar" showautodescription="false" take_count="0" templatedescription="OTS: Last 6 Games" viz_program="L-bar" name="2266">
+                <ref name="master_template">/storage/shows/{0669D19F-8511-4D67-95F8-8C002DF6041A}/mastertemplates/86400</ref>
+                <entry name="default_alternatives">
+                  <entry name="concept">Eliteserien</entry>
+                </entry>
+                <entry name="data">
+                  <entry name="1010">SANDNES ULF</entry>
+                  <entry name="1011">IMAGE*_Logos/Eliteserien/ULF</entry>
+                  <entry name="1012">2</entry>
+                  <entry name="1012.x">10</entry>
+                  <entry name="1012.y">-10</entry>
+                  <entry name="1013">0</entry>
+                  <entry name="1030">SISTE 6 RESULTATER</entry>
+                  <entry name="1090">6</entry>
+                  <entry name="1100">
+                    <xml name="xml">
+                      <entry name="entry">
+                        <element name="element">
+                          <entry name="data">
+                            <entry name="1">NOTODDEN</entry>
+                            <entry name="2">(H)</entry>
+                            <entry name="3">1</entry>
+                            <entry name="4">0</entry>
+                            <entry name="5">0</entry>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#2">
+                          <entry name="data">
+                            <entry name="1">SANDEFJORD</entry>
+                            <entry name="2">(B)</entry>
+                            <entry name="3">3</entry>
+                            <entry name="4">1</entry>
+                            <entry name="5">1</entry>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#3">
+                          <entry name="data">
+                            <entry name="1">AALESUND</entry>
+                            <entry name="2">(H)</entry>
+                            <entry name="3">1</entry>
+                            <entry name="4">2</entry>
+                            <entry name="5">1</entry>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#4">
+                          <entry name="data">
+                            <entry name="1">ULL/KISA</entry>
+                            <entry name="2">(B)</entry>
+                            <entry name="3">2</entry>
+                            <entry name="4">1</entry>
+                            <entry name="5">1</entry>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#5">
+                          <entry name="data">
+                            <entry name="1">JERV</entry>
+                            <entry name="2">(H)</entry>
+                            <entry name="3">2</entry>
+                            <entry name="4">3</entry>
+                            <entry name="5">1</entry>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#6">
+                          <entry name="data">
+                            <entry name="1">KFUM OSLO</entry>
+                            <entry name="2">(B)</entry>
+                            <entry name="3">3</entry>
+                            <entry name="4">0</entry>
+                            <entry name="5">1</entry>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                      </entry>
+                    </xml>
+                  </entry>
+                  <entry name="999901">147</entry>
+                  <entry name="999902">2019</entry>
+                  <entry name="999903">3855</entry>
+                  <entry name="999904"/>
+                  <entry name="999905"/>
+                  <entry name="999906"/>
+                  <entry name="999907"/>
+                  <entry name="999908"/>
+                  <entry name="999909"/>
+                  <entry name="999910"/>
+                  <entry name="999911"/>
+                  <entry name="999912"/>
+                  <entry name="999913"/>
+                  <entry name="999914"/>
+                  <entry name="999915"/>
+                  <entry name="999916"/>
+                  <entry name="999917"/>
+                  <entry name="999918"/>
+                  <entry name="999919"/>
+                  <entry name="999920"/>
+                </entry>
+                <entry name="dblink">
+                  <entry name="1010"/>
+                  <entry name="1030"/>
+                  <entry name="1100"/>
+                  <entry name="999901"/>
+                  <entry name="999902"/>
+                  <entry name="999903"/>
+                  <entry name="999904"/>
+                </entry>
+                <entry name="settings">
+                  <entry name="tabfields">
+                    <entry name="1010">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1011">
+                      <entry name="customattribute">OFF</entry>
+                      <entry name="searchtext"/>
+                    </entry>
+                    <entry name="1012">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1013">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1030">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1090">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1100">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999901">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999902">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999903">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999904">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999905">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999906">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999907">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999908">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999909">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999910">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999911">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999912">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999913">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999914">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999915">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999916">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999917">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999918">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999919">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999920">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1012.x">
+                      <entry name="searchtext"/>
+                    </entry>
+                    <entry name="1012.y">
+                      <entry name="searchtext"/>
+                    </entry>
+                  </entry>
+                  <entry name="isfilescript">false</entry>
+                  <entry name="modified">2019-09-18T15:32:48</entry>
+                </entry>
+                <entry usage="updating" name="payload_xml">&lt;payload xmlns="http://www.vizrt.com/types"&gt;&lt;field name="1010"&gt;&lt;value&gt;SANDNES ULF&lt;/value&gt;&lt;/field&gt;&lt;field name="1011"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;IMAGE*_Logos/Eliteserien/ULF&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="1012"&gt;&lt;value&gt;2&lt;/value&gt;&lt;field name="x"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;10&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="y"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;-10&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;field name="1013"&gt;&lt;value&gt;0&lt;/value&gt;&lt;/field&gt;&lt;field name="999901"&gt;&lt;value&gt;147&lt;/value&gt;&lt;/field&gt;&lt;field name="999902"&gt;&lt;value&gt;2019&lt;/value&gt;&lt;/field&gt;&lt;field name="999903"&gt;&lt;value&gt;3855&lt;/value&gt;&lt;/field&gt;&lt;field name="999904"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999905"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999906"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999907"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999908"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999909"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999910"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999911"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999912"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999913"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999914"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999915"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999916"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999917"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999918"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999919"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999920"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="1030"&gt;&lt;value&gt;SISTE 6 RESULTATER&lt;/value&gt;&lt;/field&gt;&lt;field name="1090"&gt;&lt;value&gt;6&lt;/value&gt;&lt;/field&gt;&lt;field name="1100"&gt;&lt;list /&gt;&lt;/field&gt;&lt;/payload&gt;</entry>
+              </element>
+              <element available="1.00" channel="L-bar" complete="false" continue_count="0" description="OTS - ULF KAMPER" layer="NFF\concept=Eliteserien\O2_Next6,NFF\concept=Eliteserien\O1_Title3" loaded="1.00" programchannel="L-bar" showautodescription="false" take_count="0" templatedescription="OTS: Next 6 Games" viz_program="L-bar" name="2265">
+                <ref name="master_template">/storage/shows/{0669D19F-8511-4D67-95F8-8C002DF6041A}/mastertemplates/86410</ref>
+                <entry name="default_alternatives">
+                  <entry name="concept">Eliteserien</entry>
+                </entry>
+                <entry name="data">
+                  <entry name="1010">SANDNES ULF</entry>
+                  <entry name="1011">IMAGE*_Logos/Eliteserien/ULF</entry>
+                  <entry name="1012">2</entry>
+                  <entry name="1012.x">10</entry>
+                  <entry name="1012.y">-10</entry>
+                  <entry name="1013">0</entry>
+                  <entry name="1030">NESTE KAMPER</entry>
+                  <entry name="1090">6</entry>
+                  <entry name="1100">
+                    <xml name="xml">
+                      <entry name="entry">
+                        <element name="element">
+                          <entry name="data">
+                            <entry name="1">ULL/KISA</entry>
+                            <entry name="2">(B)</entry>
+                            <entry name="3">ONSDAG 21. AUGUST 18.00</entry>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#2">
+                          <entry name="data">
+                            <entry name="1">AALESUND</entry>
+                            <entry name="2">(H)</entry>
+                            <entry name="3">LØRDAG 24. AUGUST 15.30</entry>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#3">
+                          <entry name="data">
+                            <entry name="1">SANDEFJORD</entry>
+                            <entry name="2">(B)</entry>
+                            <entry name="3">SØNDAG 01. SEPTEMBER 15.00</entry>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#4">
+                          <entry name="data">
+                            <entry name="1">NOTODDEN</entry>
+                            <entry name="2">(H)</entry>
+                            <entry name="3">SØNDAG 15. SEPTEMBER 19.00</entry>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#5">
+                          <entry name="data">
+                            <entry name="1">TROMSDALEN</entry>
+                            <entry name="2">(B)</entry>
+                            <entry name="3">ONSDAG 18. SEPTEMBER 19.00</entry>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#6">
+                          <entry name="data">
+                            <entry name="1">RAUFOSS</entry>
+                            <entry name="2">(H)</entry>
+                            <entry name="3">SØNDAG 22. SEPTEMBER 19.00</entry>
+                            <entry name="9.active">0</entry>
+                          </entry>
+                        </element>
+                      </entry>
+                    </xml>
+                  </entry>
+                  <entry name="999901">147</entry>
+                  <entry name="999902">2019</entry>
+                  <entry name="999903">3855</entry>
+                  <entry name="999904"/>
+                  <entry name="999905"/>
+                  <entry name="999906"/>
+                  <entry name="999907"/>
+                  <entry name="999908"/>
+                  <entry name="999909"/>
+                  <entry name="999910"/>
+                  <entry name="999911"/>
+                  <entry name="999912"/>
+                  <entry name="999913"/>
+                  <entry name="999914"/>
+                  <entry name="999915"/>
+                  <entry name="999916"/>
+                  <entry name="999917"/>
+                  <entry name="999918"/>
+                  <entry name="999919"/>
+                  <entry name="999920"/>
+                </entry>
+                <entry name="dblink">
+                  <entry name="1010"/>
+                  <entry name="1030"/>
+                  <entry name="1100"/>
+                  <entry name="999901"/>
+                  <entry name="999902"/>
+                  <entry name="999903"/>
+                  <entry name="999918"/>
+                  <entry name="999919"/>
+                  <entry name="999920"/>
+                </entry>
+                <entry name="settings">
+                  <entry name="tabfields">
+                    <entry name="1010">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1011">
+                      <entry name="customattribute">OFF</entry>
+                      <entry name="searchtext"/>
+                    </entry>
+                    <entry name="1012">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1013">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1030">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1090">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1100">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="999901">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999902">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999903">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999904">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999905">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999906">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999907">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999908">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999909">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999910">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999911">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999912">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999913">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999914">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999915">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999916">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999917">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999918">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999919">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999920">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1012.x">
+                      <entry name="searchtext"/>
+                    </entry>
+                    <entry name="1012.y">
+                      <entry name="searchtext"/>
+                    </entry>
+                  </entry>
+                  <entry name="isfilescript">false</entry>
+                  <entry name="modified">2019-09-18T15:32:52</entry>
+                </entry>
+                <entry usage="updating" name="payload_xml">&lt;payload xmlns="http://www.vizrt.com/types"&gt;&lt;field name="1010"&gt;&lt;value&gt;SANDNES ULF&lt;/value&gt;&lt;/field&gt;&lt;field name="1011"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;IMAGE*_Logos/Eliteserien/ULF&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="1012"&gt;&lt;value&gt;2&lt;/value&gt;&lt;field name="x"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;10&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="y"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;-10&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;field name="1013"&gt;&lt;value&gt;0&lt;/value&gt;&lt;/field&gt;&lt;field name="999901"&gt;&lt;value&gt;147&lt;/value&gt;&lt;/field&gt;&lt;field name="999902"&gt;&lt;value&gt;2019&lt;/value&gt;&lt;/field&gt;&lt;field name="999903"&gt;&lt;value&gt;3855&lt;/value&gt;&lt;/field&gt;&lt;field name="999904"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999905"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999906"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999907"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999908"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999909"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999910"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999911"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999912"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999913"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999914"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999915"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999916"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999917"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999918"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999919"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999920"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="1030"&gt;&lt;value&gt;NESTE KAMPER&lt;/value&gt;&lt;/field&gt;&lt;field name="1090"&gt;&lt;value&gt;6&lt;/value&gt;&lt;/field&gt;&lt;field name="1100"&gt;&lt;list /&gt;&lt;/field&gt;&lt;/payload&gt;</entry>
+              </element>
+              <element available="1.00" complete="false" continue_count="0" description="L3 - ULF SÆTERNES" layer="L1" loaded="0.00" loaded_errors="ERROR &lt;SCENE*mse_initialize*TREE*1*IMAGE SET IMAGE*_Logos/Eliteserien/_Placeholder > : parameter is invalid location [location not specified]" showautodescription="false" take_count="0" templatedescription="L3: Player" name="11022">
+                <ref name="master_template">/storage/shows/{0669D19F-8511-4D67-95F8-8C002DF6041A}/mastertemplates/71000</ref>
+                <entry name="default_alternatives">
+                  <entry name="concept">Eliteserien</entry>
+                </entry>
+                <entry name="data">
+                  <entry name="0005">1</entry>
+                  <entry name="0008">0</entry>
+                  <entry name="0009">IMAGE*_Logos/Eliteserien/_Placeholder</entry>
+                  <entry name="0009.image_position">0 0</entry>
+                  <entry name="0009.image_scaling">0.480000 0.480000</entry>
+                  <entry name="0011">1</entry>
+                  <entry name="0012">0</entry>
+                  <entry name="0049">1</entry>
+                  <entry name="0050"/>
+                  <entry name="0050.sw">1</entry>
+                  <entry name="0090">IMAGE*_Logos/Eliteserien/ULF</entry>
+                  <entry name="0091">2</entry>
+                  <entry name="0091.x">10</entry>
+                  <entry name="0091.y">-10</entry>
+                  <entry name="0095"/>
+                  <entry name="0095.sw">1</entry>
+                  <entry name="0096">0</entry>
+                  <entry name="0100">BENGT SÆTERNES</entry>
+                  <entry name="0102">TRENER, SANDNES ULF</entry>
+                  <entry name="0150">0</entry>
+                  <entry name="0150.sw">0</entry>
+                  <entry name="0900"/>
+                  <entry name="0900.pos">1</entry>
+                  <entry name="0900.sw">1</entry>
+                </entry>
+                <entry name="dblink">
+                  <entry name="0050"/>
+                  <entry name="0095"/>
+                  <entry name="0100"/>
+                  <entry name="0102"/>
+                  <entry name="0900"/>
+                </entry>
+                <entry name="settings">
+                  <entry name="tabfields">
+                    <entry name="0005">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0008">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0009">
+                      <entry name="customattribute">ON</entry>
+                      <entry name="searchtext"/>
+                    </entry>
+                    <entry name="0011">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0012">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0049">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0050">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0090">
+                      <entry name="customattribute">ON</entry>
+                      <entry name="searchtext"/>
+                    </entry>
+                    <entry name="0091">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0095">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0096">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0100">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0102">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0150">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0900">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="0091.x">
+                      <entry name="searchtext"/>
+                    </entry>
+                    <entry name="0091.y">
+                      <entry name="searchtext"/>
+                    </entry>
+                  </entry>
+                  <entry name="isfilescript">false</entry>
+                  <entry name="modified">2019-09-18T15:33:43</entry>
+                </entry>
+                <entry usage="updating" name="payload_xml">&lt;payload xmlns="http://www.vizrt.com/types"&gt;&lt;field name="0005"&gt;&lt;value&gt;1&lt;/value&gt;&lt;field name="active"&gt;&lt;value&gt;0&lt;/value&gt;&lt;/field&gt;&lt;field name="image_position"&gt;&lt;value&gt;0 -1.800000&lt;/value&gt;&lt;/field&gt;&lt;field name="image_scaling"&gt;&lt;value&gt;1.700000 1.700000&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;field name="0008"&gt;&lt;value&gt;0&lt;/value&gt;&lt;/field&gt;&lt;field name="0009"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;IMAGE*_Logos/Eliteserien/_Placeholder&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;field name="image_position"&gt;&lt;value&gt;0 0&lt;/value&gt;&lt;/field&gt;&lt;field name="image_scaling"&gt;&lt;value&gt;0.480000 0.480000&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;field name="0011"&gt;&lt;value&gt;1&lt;/value&gt;&lt;/field&gt;&lt;field name="0012"&gt;&lt;value&gt;0&lt;/value&gt;&lt;/field&gt;&lt;field name="0049"&gt;&lt;value&gt;1&lt;/value&gt;&lt;/field&gt;&lt;field name="0050"&gt;&lt;field name="sw"&gt;&lt;value&gt;1&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;field name="0090"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;IMAGE*_Logos/Eliteserien/ULF&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="0091"&gt;&lt;value&gt;2&lt;/value&gt;&lt;field name="x"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;10&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="y"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;-10&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;field name="0095"&gt;&lt;field name="sw"&gt;&lt;value&gt;1&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;field name="0096"&gt;&lt;value&gt;0&lt;/value&gt;&lt;/field&gt;&lt;field name="0100"&gt;&lt;value&gt;BENGT SÆTERNES&lt;/value&gt;&lt;/field&gt;&lt;field name="0102"&gt;&lt;value&gt;TRENER, SANDNES ULF&lt;/value&gt;&lt;/field&gt;&lt;field name="0150"&gt;&lt;value&gt;0&lt;/value&gt;&lt;field name="sw"&gt;&lt;value&gt;0&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;field name="0900"&gt;&lt;field name="pos"&gt;&lt;value&gt;1&lt;/value&gt;&lt;/field&gt;&lt;field name="sw"&gt;&lt;value&gt;1&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;/payload&gt;</entry>
+              </element>
+              <element available="1.00" channel="L-bar" complete="false" continue_count="0" description="OTS - MATCH SUMMARY TRO - ULF" layer="NFF\concept=Eliteserien\O2_Summary,NFF\concept=Eliteserien\O1_Title1" loaded="1.00" programchannel="L-bar" showautodescription="false" take_count="0" templatedescription="OTS: Match Summary" viz_program="L-bar" name="2262">
+                <ref name="master_template">/storage/shows/{0669D19F-8511-4D67-95F8-8C002DF6041A}/mastertemplates/86100</ref>
+                <entry name="default_alternatives">
+                  <entry name="concept">Eliteserien</entry>
+                </entry>
+                <entry name="data">
+                  <entry name="1005">1</entry>
+                  <entry name="1008">OBOS-LIGAEN</entry>
+                  <entry name="1010">IMAGE*_Logos/Obosligaen/TRO</entry>
+                  <entry name="1011">0</entry>
+                  <entry name="1011.x">10</entry>
+                  <entry name="1011.y">-10</entry>
+                  <entry name="1020">IMAGE*_Logos/Obosligaen/ULF</entry>
+                  <entry name="1021">2</entry>
+                  <entry name="1021.x">10</entry>
+                  <entry name="1021.y">-10</entry>
+                  <entry name="1025">1</entry>
+                  <entry name="1030">RUNDE 23</entry>
+                  <entry name="1040">TROMSDALEN</entry>
+                  <entry name="1050">1</entry>
+                  <entry name="1100">
+                    <xml name="xml">
+                      <entry name="entry">
+                        <element name="element">
+                          <entry name="data">
+                            <entry name="1">1</entry>
+                            <entry name="2">LØVLAND 60'</entry>
+                            <entry name="3.active">0</entry>
+                            <entry name="4"/>
+                            <entry name="5.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#2">
+                          <entry name="data">
+                            <entry name="1">1</entry>
+                            <entry name="2"/>
+                            <entry name="3.active">0</entry>
+                            <entry name="4"/>
+                            <entry name="5.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#3">
+                          <entry name="data">
+                            <entry name="1">1</entry>
+                            <entry name="2"/>
+                            <entry name="3.active">0</entry>
+                            <entry name="4"/>
+                            <entry name="5.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#4">
+                          <entry name="data">
+                            <entry name="1">1</entry>
+                            <entry name="2"/>
+                            <entry name="3.active">0</entry>
+                            <entry name="4"/>
+                            <entry name="5.active">0</entry>
+                          </entry>
+                        </element>
+                      </entry>
+                    </xml>
+                  </entry>
+                  <entry name="2040">SANDNES ULF</entry>
+                  <entry name="2050">4</entry>
+                  <entry name="2100">
+                    <xml name="xml">
+                      <entry name="entry">
+                        <element name="element">
+                          <entry name="data">
+                            <entry name="1">1</entry>
+                            <entry name="2">HALGUNSET 5'</entry>
+                            <entry name="3.active">0</entry>
+                            <entry name="4"/>
+                            <entry name="5.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#2">
+                          <entry name="data">
+                            <entry name="1">1</entry>
+                            <entry name="2">ERIKSEN 63', 66'</entry>
+                            <entry name="3.active">0</entry>
+                            <entry name="4"/>
+                            <entry name="5.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#3">
+                          <entry name="data">
+                            <entry name="1">1</entry>
+                            <entry name="2">KACHI 85'</entry>
+                            <entry name="3.active">0</entry>
+                            <entry name="4"/>
+                            <entry name="5.active">0</entry>
+                          </entry>
+                        </element>
+                        <element name="element#4">
+                          <entry name="data">
+                            <entry name="1">1</entry>
+                            <entry name="2"/>
+                            <entry name="3.active">0</entry>
+                            <entry name="4"/>
+                            <entry name="5.active">0</entry>
+                          </entry>
+                        </element>
+                      </entry>
+                    </xml>
+                  </entry>
+                  <entry name="999901">147</entry>
+                  <entry name="999902">2019</entry>
+                  <entry name="999903">1040971</entry>
+                  <entry name="999904"/>
+                  <entry name="999905"/>
+                  <entry name="999906"/>
+                  <entry name="999907"/>
+                  <entry name="999908"/>
+                  <entry name="999909"/>
+                  <entry name="999910"/>
+                  <entry name="999911"/>
+                  <entry name="999912"/>
+                  <entry name="999913"/>
+                  <entry name="999914"/>
+                  <entry name="999915"/>
+                  <entry name="999916"/>
+                  <entry name="999917"/>
+                  <entry name="999918"/>
+                  <entry name="999919"/>
+                  <entry name="999920"/>
+                </entry>
+                <entry name="dblink">
+                  <entry name="1008"/>
+                  <entry name="1030"/>
+                  <entry name="1040"/>
+                  <entry name="1050"/>
+                  <entry name="1100"/>
+                  <entry name="2040"/>
+                  <entry name="2050"/>
+                  <entry name="2100"/>
+                  <entry name="999901"/>
+                  <entry name="999902"/>
+                  <entry name="999903"/>
+                  <entry name="999904"/>
+                  <entry name="999905"/>
+                  <entry name="999906"/>
+                </entry>
+                <entry name="settings">
+                  <entry name="tabfields">
+                    <entry name="1005">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1008">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1010">
+                      <entry name="customattribute">OFF</entry>
+                      <entry name="searchtext"/>
+                    </entry>
+                    <entry name="1011">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1020">
+                      <entry name="customattribute">OFF</entry>
+                      <entry name="searchtext"/>
+                    </entry>
+                    <entry name="1021">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1025">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1030">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1040">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1050">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="1100">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="2040">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="2050">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="2100">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="999901">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999902">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999903">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999904">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999905">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999906">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999907">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999908">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999909">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999910">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999911">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999912">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999913">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999914">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999915">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999916">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999917">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999918">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999919">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="999920">
+                      <entry name="customattribute">ON</entry>
+                    </entry>
+                    <entry name="1011.x">
+                      <entry name="searchtext"/>
+                    </entry>
+                    <entry name="1011.y">
+                      <entry name="searchtext"/>
+                    </entry>
+                    <entry name="1021.x">
+                      <entry name="searchtext"/>
+                    </entry>
+                    <entry name="1021.y">
+                      <entry name="searchtext"/>
+                    </entry>
+                  </entry>
+                  <entry name="isfilescript">false</entry>
+                  <entry name="modified">2019-09-18T17:05:13</entry>
+                </entry>
+                <entry usage="updating" name="payload_xml">&lt;payload xmlns="http://www.vizrt.com/types"&gt;&lt;field name="1005"&gt;&lt;value&gt;1&lt;/value&gt;&lt;/field&gt;&lt;field name="1008"&gt;&lt;value&gt;OBOS-LIGAEN&lt;/value&gt;&lt;/field&gt;&lt;field name="999901"&gt;&lt;value&gt;147&lt;/value&gt;&lt;/field&gt;&lt;field name="999902"&gt;&lt;value&gt;2019&lt;/value&gt;&lt;/field&gt;&lt;field name="999903"&gt;&lt;value&gt;1040971&lt;/value&gt;&lt;/field&gt;&lt;field name="999904"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999905"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999906"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999907"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999908"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999909"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999910"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999911"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999912"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999913"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999914"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999915"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999916"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999917"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999918"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999919"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999920"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="1010"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;IMAGE*_Logos/Obosligaen/TRO&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="1011"&gt;&lt;value&gt;0&lt;/value&gt;&lt;field name="x"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;10&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="y"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;-10&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;field name="1020"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;IMAGE*_Logos/Obosligaen/ULF&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="1021"&gt;&lt;value&gt;2&lt;/value&gt;&lt;field name="x"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;10&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="y"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;-10&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;field name="1025"&gt;&lt;value&gt;1&lt;/value&gt;&lt;/field&gt;&lt;field name="1030"&gt;&lt;value&gt;RUNDE 23&lt;/value&gt;&lt;/field&gt;&lt;field name="1040"&gt;&lt;value&gt;TROMSDALEN&lt;/value&gt;&lt;/field&gt;&lt;field name="1050"&gt;&lt;value&gt;1&lt;/value&gt;&lt;/field&gt;&lt;field name="1100"&gt;&lt;list /&gt;&lt;/field&gt;&lt;field name="2040"&gt;&lt;value&gt;SANDNES ULF&lt;/value&gt;&lt;/field&gt;&lt;field name="2050"&gt;&lt;value&gt;4&lt;/value&gt;&lt;/field&gt;&lt;field name="2100"&gt;&lt;list /&gt;&lt;/field&gt;&lt;/payload&gt;</entry>
+              </element>
+              <element available="1.00" channel="L-bar" complete="false" continue_count="0" description="OTS: TRO-ULF PROMO" layer="NFF\concept=Eliteserien\O2_Promo,NFF\concept=Eliteserien\O1_Title1" loaded="1.00" programchannel="L-bar" showautodescription="false" take_count="0" templatedescription="OTS: Promo" viz_program="L-bar" name="2269">
+                <ref name="master_template">/storage/shows/{0669D19F-8511-4D67-95F8-8C002DF6041A}/mastertemplates/84000</ref>
+                <entry name="default_alternatives">
+                  <entry name="concept">Eliteserien</entry>
+                </entry>
+                <entry name="data">
+                  <entry name="1005">1</entry>
+                  <entry name="1008">OBOS-LIGAEN</entry>
+                  <entry name="1030">RUNDE 23</entry>
+                  <entry name="1110">IMAGE*_Logos/Obosligaen/TRO</entry>
+                  <entry name="1110.image_position">-0.700000 0</entry>
+                  <entry name="1110.image_scaling">1.050000 1.050000</entry>
+                  <entry name="1111">0</entry>
+                  <entry name="1111.x">10</entry>
+                  <entry name="1111.y">-10</entry>
+                  <entry name="1115">TROMSDALEN</entry>
+                  <entry name="1120">IMAGE*_Logos/Eliteserien/ULF</entry>
+                  <entry name="1120.image_position">-0.700000 0</entry>
+                  <entry name="1120.image_scaling">1.050000 1.050000</entry>
+                  <entry name="1121">2</entry>
+                  <entry name="1121.x">10</entry>
+                  <entry name="1121.y">-10</entry>
+                  <entry name="1150">SANDNES ULF</entry>
+                  <entry name="1160">┘</entry>
+                  <entry name="1160.sw">1</entry>
+                  <entry name="1200">IMAGE*_Logos/Network/EN_Colour</entry>
+                  <entry name="1200.active">1</entry>
+                  <entry name="1200.position">-23 -53 0</entry>
+                  <entry name="1200.scaling">0.4 0.4 1</entry>
+                  <entry name="1220">IMAGE*_Logos/Network/bdplay_eplayer</entry>
+                  <entry name="1220.active">1</entry>
+                  <entry name="1220.position">32 -53 0</entry>
+                  <entry name="1220.scaling">0.76 0.76 1.10000002</entry>
+                  <entry name="999901"/>
+                  <entry name="999902"/>
+                  <entry name="999903"/>
+                  <entry name="999904"/>
+                  <entry name="999905"/>
+                  <entry name="999906"/>
+                  <entry name="999907"/>
+                  <entry name="999908"/>
+                  <entry name="999909"/>
+                  <entry name="999910"/>
+                  <entry name="999911"/>
+                  <entry name="999912"/>
+                  <entry name="999913"/>
+                  <entry name="999914"/>
+                  <entry name="999915"/>
+                  <entry name="999916"/>
+                  <entry name="999917"/>
+                  <entry name="999918"/>
+                  <entry name="999919"/>
+                  <entry name="999920"/>
+                </entry>
+                <entry name="dblink">
+                  <entry name="1008"/>
+                  <entry name="1030"/>
+                  <entry name="1115"/>
+                  <entry name="1150"/>
+                  <entry name="1160"/>
+                </entry>
+                <entry name="settings">
+                  <entry name="tabfields">
+                    <entry name="1005">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="1008">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="1030">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="1110">
+                      <entry name="customattribute">OFF</entry>
+                      <entry name="searchtext"/>
+                    </entry>
+                    <entry name="1111">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="1115">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="1120">
+                      <entry name="customattribute">OFF</entry>
+                      <entry name="searchtext"/>
+                    </entry>
+                    <entry name="1121">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="1150">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="1160">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="1200">
+                      <entry name="customattribute">OFF</entry>
+                      <entry name="searchtext"/>
+                    </entry>
+                    <entry name="1220">
+                      <entry name="customattribute">OFF</entry>
+                      <entry name="searchtext"/>
+                    </entry>
+                    <entry name="999901">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="999902">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="999903">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="999904">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="999905">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="999906">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="999907">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="999908">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="999909">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="999910">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="999911">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="999912">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="999913">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="999914">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="999915">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="999916">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="999917">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="999918">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="999919">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="999920">
+                      <entry name="customattribute">OFF</entry>
+                    </entry>
+                    <entry name="1111.x">
+                      <entry name="searchtext"/>
+                    </entry>
+                    <entry name="1111.y">
+                      <entry name="searchtext"/>
+                    </entry>
+                    <entry name="1121.x">
+                      <entry name="searchtext"/>
+                    </entry>
+                    <entry name="1121.y">
+                      <entry name="searchtext"/>
+                    </entry>
+                  </entry>
+                  <entry name="isfilescript">false</entry>
+                  <entry name="modified">2019-09-18T16:32:48</entry>
+                </entry>
+                <entry usage="updating" name="payload_xml">&lt;payload xmlns="http://www.vizrt.com/types"&gt;&lt;field name="1005"&gt;&lt;value&gt;1&lt;/value&gt;&lt;/field&gt;&lt;field name="1008"&gt;&lt;value&gt;OBOS-LIGAEN&lt;/value&gt;&lt;/field&gt;&lt;field name="999901"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999902"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999903"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999904"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999905"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999906"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999907"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999908"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999909"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999910"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999911"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999912"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999913"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999914"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999915"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999916"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999917"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999918"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999919"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="999920"&gt;&lt;value&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="1030"&gt;&lt;value&gt;RUNDE 23&lt;/value&gt;&lt;/field&gt;&lt;field name="1110"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;IMAGE*_Logos/Obosligaen/TRO&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;field name="image_position"&gt;&lt;value&gt;-0.700000 0&lt;/value&gt;&lt;/field&gt;&lt;field name="image_scaling"&gt;&lt;value&gt;1.050000 1.050000&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;field name="1111"&gt;&lt;value&gt;0&lt;/value&gt;&lt;field name="x"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;10&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="y"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;-10&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;field name="1115"&gt;&lt;value&gt;TROMSDALEN&lt;/value&gt;&lt;/field&gt;&lt;field name="1120"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;IMAGE*_Logos/Eliteserien/ULF&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;field name="image_position"&gt;&lt;value&gt;-0.700000 0&lt;/value&gt;&lt;/field&gt;&lt;field name="image_scaling"&gt;&lt;value&gt;1.050000 1.050000&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;field name="1121"&gt;&lt;value&gt;2&lt;/value&gt;&lt;field name="x"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;10&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;field name="y"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;-10&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;field name="1150"&gt;&lt;value&gt;SANDNES ULF&lt;/value&gt;&lt;/field&gt;&lt;field name="1160"&gt;&lt;value&gt;┘&lt;/value&gt;&lt;field name="sw"&gt;&lt;value&gt;1&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;field name="1200"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;IMAGE*_Logos/Network/EN_Colour&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;field name="active"&gt;&lt;value&gt;1&lt;/value&gt;&lt;/field&gt;&lt;field name="position"&gt;&lt;value&gt;-23 -53 0&lt;/value&gt;&lt;/field&gt;&lt;field name="scaling"&gt;&lt;value&gt;0.4 0.4 1&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;field name="1220"&gt;&lt;value&gt;&lt;entry xmlns="http://www.w3.org/2005/Atom"&gt;&lt;content type="application/vnd.vizrt.viz.image"&gt;IMAGE*_Logos/Network/bdplay_eplayer&lt;/content&gt;&lt;/entry&gt;&lt;/value&gt;&lt;field name="active"&gt;&lt;value&gt;1&lt;/value&gt;&lt;/field&gt;&lt;field name="position"&gt;&lt;value&gt;32 -53 0&lt;/value&gt;&lt;/field&gt;&lt;field name="scaling"&gt;&lt;value&gt;0.76 0.76 1.10000002&lt;/value&gt;&lt;/field&gt;&lt;/field&gt;&lt;/payload&gt;</entry>
+              </element>
+            </group>
+          </entry>
+        </entry>
+      </entry>
+    </entry>
+  </vdom>
+</archive>
